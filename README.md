@@ -1,3 +1,3 @@
 # Java-Finanz-Rechner
-Monatsraten rechner in Java 💸
+Monatsraten rechner in Java.
 ##
